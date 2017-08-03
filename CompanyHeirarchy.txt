@@ -1,9 +1,9 @@
-CEO: Mr. Ram
-Managing Director: Mr. Laxman
-Proect Manager: Mr. Gopal
-Team Leader: Mrs. Sita
-Senior Executive: Mrs. Nima
-Sales Team: Mrs. Sujata
+CEO: Ms. Trivedi
+Managing Director: Mr. Chawda
+Proect Manager: Mr. Shah
+Team Leader: Mrs. Vyas
+Senior Executive: Mrs. Bhatti
+Sales Team: Mrs. Rathore
 Senior Sales Manager: Mrs. Ritu
 Sales Department: Mrs. Vedu
 Automation Department: Mr. Singh
