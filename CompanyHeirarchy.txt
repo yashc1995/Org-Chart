@@ -1,10 +1,10 @@
-CEO
-Managing Director
-Proect Manager
-Team Leader
-Senior Executive
-Sales Team
-Senior Sales Manager
-Sales Department
-Automation Department
-VP
+CEO: Mr. Ram
+Managing Director: Mr. Laxman
+Proect Manager: Mr. Gopal
+Team Leader: Mrs. Sita
+Senior Executive: Mrs. Nima
+Sales Team: Mrs. Sujata
+Senior Sales Manager: Mrs. Ritu
+Sales Department: Mrs. Vedu
+Automation Department: Mr. Singh
+VP: Mr. Patel
